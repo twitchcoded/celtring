@@ -20,9 +20,9 @@ var ringName = 'Modern Celtic Languages Webring';
 var ringID = 'celtring';
 
 //should the widget include a link to an index page?
-var useIndex = false;
+var useIndex = true;
 //the full URL of the index page. if you're not using one, you don't have to specify anything here
-var indexPage = 'https://example.com/index.html';
+var indexPage = 'https://iaith.twitch.cymru/celtring';
 
 //should the widget include a random button?
 var useRandom = true;
